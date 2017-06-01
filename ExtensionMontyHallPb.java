@@ -2,7 +2,7 @@
  * File: ExtensionMontyHallPb.java
  * ------------------
  * Name: Silvia Fernandez 
- * This program implements a game of the Monty Hall Problem to make up for midterm credit.
+ * This program implements a game of the Monty Hall Problem.
  * In this game a door is chosen randomly out of 3 to hold a car. The other 2 doors will 
  * hold a goat.
  * The user chooses one of 3 doors and will win what is behind that door. 
